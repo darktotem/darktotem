@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=595&height=44&lines=In%20the%20beginning%2C%20there%20was%20the%20code." alt="Typing headlines" />
 </p>
 
+https://camo.githubusercontent.com/3b525d0f323831680479343ef045164f95afb6911f066dc4af2070ece4dd7dc7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f373858434642474f6c53366b65593142696c2f67697068792e676966
+
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **Sharpening my craft**  
