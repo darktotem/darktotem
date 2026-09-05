@@ -7,9 +7,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=595&height=44&lines=In%20the%20beginning%2C%20there%20was%20the%20code." alt="Typing headlines" />
 </p>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</div>
 
-https://camo.githubusercontent.com/3b525d0f323831680479343ef045164f95afb6911f066dc4af2070ece4dd7dc7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f373858434642474f6c53366b65593142696c2f67697068792e676966
 
+<div align="center">
+<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" style="width:200px; height:800;" alt="Programmer GIF">
+  
+  <span style="font-size: 2.5rem; font-weight: bold; text-transform: uppercase; animation: neon-effect 2s infinite alternate; text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff00ff, 0 0 35px #ff00ff, 0 0 40px #ff00ff; color: #ffffff; letter-spacing: 2px;">Coding From Home!!!☕</span
+  </div>
+  </div>  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **Sharpening my craft**  
